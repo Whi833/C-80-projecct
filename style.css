@@ -1,0 +1,26 @@
+h1 {
+    margin-bottom: 30px;
+    color:yellow;
+    text-decoration: underline;
+}
+
+input {
+    margin-bottom: 20px;
+    margin-left: 30px;
+    width:200px;
+    background: whitesmoke;
+    border: dotted;
+}
+
+button {
+    margin-bottom: 20px;
+    background-color: yellowgreen;
+}
+
+hr {
+    margin-bottom: 15px;
+}
+
+body {
+    background-color: blue;
+}
